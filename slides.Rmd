@@ -1,0 +1,50 @@
+---
+title: "From Feature Effects to Feature Importance"
+subtitle: "A Simple and Effective Model-Agnostic Variable Importance Measure"
+author: "Brandon Greenwell"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+???
+
+Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
+
+
+---
+
+# Motivation
+
+
+---
+
+# Background
+
+
+---
+
+# Variable importance
+
+
+---
+
+# Interaction effects
+
+
+---
+
+# References
+
+Greenwell, Brandon M., Bradley C. Boehmke, and Andrew J. McCarthy. 2018. "A Simple and Effective Model-Based Variable Importance Measure." arXiv Preprint [arXiv:1805.04755](https://arxiv.org/abs/1805.04755).
